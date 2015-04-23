@@ -1,0 +1,448 @@
+Welcome to the Johns Hopkins Data Science
+Track.
+I'm incredibly excited to tell you a
+little bit about the track
+and about where you're going to be going
+over the next nine months.
+My name is Jeff Leek, and I'm a professor
+in the Johns Hopkins Bloomberg School of
+Public Health.
+I thought I'd lead off this introductory
+video with a
+quote by one of my favorite US Presidents,
+Teddy Roosevelt.
+He said it's not the critic who counts.
+It's not the person who points out how the
+person
+who's actually doing things is doing them
+wrong or messing up.
+It's the person who's actually trying to
+get things
+done, even when there are obstacles in the
+way.
+And a lot of data science right now is
+being able to push through a
+lot of the difficulties that you have when
+you're dealing with either large or messy
+data.
+It includes collecting the data clean them
+up and then
+building new announced techniques that
+exploring new information about that data.
+And so, all of those steps are a little
+bit complicated and sometimes
+it opens you to criticism when you're
+trying to do something new and
+interesting.
+And so I wanted to lead with a quote that
+said it's important to strive
+the valiantly do these sorts of things,
+even if you're going to take some
+criticism.
+So the key challenge in data science is
+actually
+really nicely summed up in this quote by
+Dan Myer.
+He says, ask yourselves, what problem you,
+have you ever solved, ever, that
+was worth solving, where you knew all of
+the given information in advance?
+Where you didn't have a surplus of
+information and have to filter some of
+it out, or you didn't have insufficient
+information and have to go find some?
+And so, I think that this is a kind of a
+critical
+quote because, in data science, this is
+usually what is going on.
+You're either in a situation where you
+really don't have
+enough data to answer the question that
+you're interested in, and
+you have to go out and try to search for
+it,
+find it on the web, or find it in other
+places.
+Or you're in a situation where you are
+overwhelmed with a surplus of data and you
+have to filter out all of the irrelevant
+information to try to narrow in on your
+question.
+And you'll notice that I said question in
+both of those cases.
+And I think this goes to the heart of our
+philosophy about data science.
+We're interested in answering questions
+with data.
+We think the question should come first
+and then the data should follow after.
+And that actually makes it more
+challenging,
+because sometimes, you can answer a
+question with
+some data but you might not be able to
+answer your question with some data.
+So this track is about refocusing on
+answering the question
+that you're interested in solving with the
+data that you have.
+So I thought I'd tell you a little bit
+about the instructors
+that you'll be hearing from throughout the
+course of this, course track.
+So we are all faculty in the Johns Hopkins
+Blumberg School of Public Health in the
+Biostatistics Department.
+And you could say that we all
+do data intensive statistics in biology
+and medicine.
+Brian Caffo works on the statistics of
+brain, analyzing brain imaging data.
+And I work on the statistics of analyzing
+genomics data.
+And Roger Peng works on the statistics of
+analyzing fine particulate matter.
+All of us work on problems where the data
+aren't always clean and nice and easy to
+handle.
+All of us work on problems where the
+questions that we want
+to answer are complicated and you have to
+break them down into parts.
+And all of us, sort of, work on questions
+where we're very passionate about
+trying to get the right answer so that we
+can help people in human health.
+But the techniques that you're going to be
+learning about are not exclusive to
+biology and medicine.
+That's just one area where there's been a
+recent upsurge in the amount of data
+that's available.
+So why data science?
+Why should you take this program?
+This is a cover of The Economist now.
+It's a little bit old I guess ancient
+history from a couple of years ago.
+But it talks about the data deluge and
+it's really true.
+Over the last several years data has
+become much, much cheaper to collect.
+It's much easier to store.
+And there's so many free computing tools
+out
+there right now, that you can actually do
+something with this entire data deluge
+that's sort
+of assaulting all different areas of
+science and business.
+So the other thing is that you've probably
+heard the term big data.
+And so we'll hear a little bit more about
+what we think about
+big data throughout the course of
+this particular course, the Data
+Scientist's Toolbox.
+But big data is, sort of a new frontier in
+the sense that,
+we have data in areas that we didn't used
+to have that data.
+We didn't have access to information about
+GPS
+coordinates from cars from everybody in
+the entire world.
+It wasn't possible to sequence everybody's
+genome.
+And now that's all possible.
+So we have access to this data and it
+allows us to answer questions we never
+could before.
+So, it's an incredibly exciting time, and
+you're somebody who can
+get in there and use that data to answer
+those questions.
+So why statistical data science?
+You'll notice that we're, all of your
+instructors are biostatistics professors
+and so this
+will, this data science track will
+obviously
+have a little bit of a statistical bend.
+I think that that's appropriate given that
+statistics is the science of learning from
+data.
+So, data is very, very, it's very rare
+that you'll get a data
+set where all of the answers are really
+clear, and there's no uncertainty.
+In any case where there is uncertainty,
+that's where statistics comes and plays a
+role.
+So, this is a again, a little bit older
+New
+York Times article now, but it talks about
+how the
+key word for a lot of graduates to open
+the
+door for a lot of jobs, is to learn about
+statistics.
+So why are you lucky?
+You're lucky because this moment, right
+now, in time is
+sort of like the moment that Jeff Bezos
+discovered the internet.
+He got into building a internet company at
+the
+time when there was this explosive growth
+in internet
+usage and it just opened the door for the
+opportunity to build something amazing and
+huge and wonderful.
+And sort of, that's the right, that's what
+the time is right now for data.
+It sort of there's an explosive growth of
+data in every possible area you can
+imagine.
+And so it's the opportunity right now to
+sort of jump on a rocket and, and
+find out something interesting, and, and
+sort of
+carry it off into a, a really major
+endeavor.
+You're also lucky because tools and
+competitions and
+websites have all been developed around
+the idea of
+helping to learn about data, but also
+getting
+involved in projects that have super high
+profile results.
+So, one example is the Heritage Health
+Prize,
+which I'm showing you a picture of here.
+The Heritage Health Prize was a $3 million
+contest for people who could analyze data
+and
+come up with a better predictor of who
+would be admitted to a hospital in another
+year.
+So you can see that's a huge amount of
+money that's being
+invested in these ideas of algorithm
+development and data science of
+prediction.
+So it gives you an exciting opportunity to
+get involved in
+projects that, sort of, weren't happening
+five or ten years ago.
+This course track will focus almost
+exclusively
+on the use of the R programming language.
+And so I thought it was appropriate to
+talk
+a little bit about why we like R so much.
+So we like R obviously, because we all use
+it.
+But it's also sort of increasingly the
+most commonly used language for data
+science.
+There are other languages that are also
+very useful.
+And we won't be talking about them a lot
+in this
+course but they're obviously good
+complements to the R programming language.
+Like, Python, in this class we'll be
+focusing on R because
+it has a broad range of packages that
+allow you to go
+from the rawest of raw files, all the way
+to interactive reports and
+documents and web apps that you can share
+with your collaborators.
+So, some more reasons why we might use r
+is because it's free, it has a
+comprehensive set of packages, like I
+mentioned, for
+all the processes that are involved in
+data science.
+It has one of the best development
+environments of any programming language,
+in our studio.
+It also has an amazing ecosystem of
+developers.
+And what I mean by that is there are
+a lot of people that are developing our
+packages.
+And they're also available to get in touch
+with
+on mailing lists or by email or on stack
+overflow.
+And so it's really possible to learn about
+the cutting edge of packages that are
+being developed.
+There also very easy to install and play
+nicely together, which is a, a feature
+that doesn't always happen in a lot of the
+languages that are used for data science.
+So the next thing I thought I would
+mention is, who is a data scientist?
+So, we're going to be talking about data
+science a lot.
+And I thought I'd mention that some people
+that I think are data scientists, that
+might not, either label themselves that
+way
+or have other people label them that way.
+So the first is Daryl Morey, who'd the
+general
+manager of the Houston Rockets basketball
+team in the US.
+So he uses data to analyze
+basketball players and transactions and
+making trades.
+And so I would consider him to be a data
+scientist
+Because he's a person who uses data to
+answer questions about basketball.
+Another data scientist that you may, or
+may not, have heard of, is Hilary Mason.
+So, she used to be the Chief, Data
+Scientist at Bentley, and now she's at
+Accel Partners.
+And so, she uses data to answer all sorts
+of questions about mining the
+web, and understanding that way that
+humans
+interact with each other through social
+media.
+So, again she might not label herself a
+data
+scientist, but I think the way that she
+uses data,
+is a evocative of the sort of ideas, that
+we would like to convey in this data
+sciences track.
+If you're taking this course, you probably
+know who Daphne Koller is.
+She's the CEO of Coursera.
+But she's also another person who's using
+all the
+data they're collecting through Coursera
+to better, to improve
+the way that we do educational delivery
+and educational
+assessment at this huge scale that
+Coursera is providing.
+And finally, Nate Silver is one of the
+most
+famous data scientists, or statisticians
+in the world today.
+So he used a large amount of totally free
+public data to make
+predictions about who would win elections
+in
+the United States, and was remarkably
+accurate.
+I'm going to finish with him, as the da-,
+as the
+last data scientist I'm going to
+illustrate because it's so amazing that
+he could use public free data and create
+such an amazing
+product that so many people read about,
+and are excited about.
+So our goal is to teach you about a bunch
+different
+skills that will be useful for you as a
+data scientist.
+So, this is a Venn Diagram and some
+statisticians and data scientists
+don't like Venn Diagrams but I'm going to
+get, show you one anyway.
+And so, this Venn Diagram has Data Science
+at the, sort
+of, the center of this Venn diagram that
+intersects several different skills.
+So, if you look right here there's
+data science and it involves three
+different components.
+There's hacking skills, there's math and
+statistics knowledge, and there's
+substantive expertise.
+And so our data science track will focus a
+little bit on each of
+these, but it will primarily focus on
+math and statistics knowledge and hacking
+skills.
+And so math and statistics knowledge sort
+of speaks for itself.
+We're going to teach you a little bit
+about math and a little bit about
+statistics.
+Hacking skills involves two different
+components.
+One thing is we're going to teach you a
+little
+bit about computer programming or at least
+computer programming
+with R, which will allow you to access
+data
+and play around with it and analyze it,
+plot it.
+But hacking skills also has another
+component to it which
+is the ability to go out and answer
+questions for yourself.
+One key component of a data scientist job
+right now is
+that most of the answers aren't already
+outlined in the textbook.
+This is all new stuff that's happening.
+So what are the major skills of being a
+data scientist is being to go to Google,
+and
+go to Stack Overflow, and go to one of the
+other sites and look up what you need
+to learn and figure out what answers you
+know
+and what answers you don't know, and then
+figuring
+out how you can use the information you
+have
+to answer the question that you'd like to
+answer.
+So another reason obviously is jobs.
+That might be the reason you're taking
+this course track.
+And so you can see this is a plot of
+listings
+are for data science jobs over time and of
+course it's exploding.
+And we'll talk a little bit about why you
+shouldn't extrapolate,
+necessarily, from your data forever, but
+it does suggest that data
+science is a hot area that's growing and I
+think obviously
+we're very excited about it and hope
+you're excited about it too.
+So this course, Data Scientist's Toolbox,
+will
+continue with lectures on the following
+three things.
+First, we're going to introduce you to the
+course track.
+Then we're going to tell you a little bit
+about getting the tools that
+you need to get set up and get installed,
+hopefully get you over that hump.
+And then we're going to give you the
+basic background on data science sort of
+writ large,
+so that you'll be ready to jump into
+any of the individual classes and really
+take off.
+Looking forward to seeing you in the rest
+of the class.
+

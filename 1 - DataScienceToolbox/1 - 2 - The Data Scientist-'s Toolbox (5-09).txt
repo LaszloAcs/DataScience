@@ -1,0 +1,194 @@
+In week two of course, we're going to be
+covering a bunch of software that you're
+going
+to install that will constitute the data
+scientist's
+toolbox, as we described it for this
+course's track.
+So the first question you might ask
+yourself is, what software do you need?
+Well to know what, software you need, you
+have to
+know what exactly a data scientist is
+going to do.
+So, in this course sequence we're going to
+talk
+about all the different components of
+being a data scientist.
+So we're going to start with defining a
+question of interest, and then
+identifying the ideal data set try to
+ident, to answer that question.
+Determining if that data is even
+accessible, a
+lot of times the ideal dataset isn't even
+available.
+Then ways that you can go out and actually
+obtain the data whether it's from a
+database, or from a website, cleaning the
+data
+up so that it can be processed and
+analyzed.
+Performing some sort of exploratory
+analysis,
+including making plots and clusterings so
+you
+can identify patterns that you didn't know
+about before hand in the data set.
+Performing statistical prediction or
+modeling to try to, build a sort of
+an intuition about what's going to happen
+in the next sample you might take.
+Interpreting your results, challenging
+them.
+Then synthesizing them and writing them up
+in
+reproducible ways that can be shared with
+other people.
+Finally, we're going to talk about
+distributing results
+through things like interacting graphics,
+also through
+right ups and presentations, and finally
+through
+interactive apps built on top of R.
+So the main workhorse of data science in
+terms
+of this data science track is the R
+programming language.
+There are other alternative languages that
+are
+also really great for data science, but
+we're
+going to be focusing on R, since it's one
+of the most widely used languages.
+And it's widely supported by a large group
+of developers.
+Who can contribute new packages all the
+time
+that can improve and extend the
+functionality of R.
+We'll be installing this in the second
+week of the class.
+We'll do most of our coding in RStudio.
+RStudio is an Integrated Development
+Environment, an IDE for R.
+It's actually one of the best IDE's I
+think for
+many other languages as well in terms of
+data science.
+The R IDE is free as well just like the
+language R, and so we
+will be downloading this IDE and setting
+it up again the second week of class.
+The interface looks something like this.
+And we'll talk a lot more about this in
+the
+second week and later on in the rest of
+the class.
+But you can see here in the top left-hand
+corner I've got a file.
+So this is a new .R file that's going to
+contain some code that we're going to be
+writing in.
+So we can write that code, here in the
+file
+at the prompt and then down here, you see
+a console.
+So we'll be entering sort of a commands
+at the command line down here in this
+console.
+And then over here you can see other
+information you might be interested in
+looking at.
+See plots you recently made, the packages
+that you have loaded,
+or help files for specific functions that
+you might be interested in.
+There are a lot of other really nice
+functions that come
+with Rstudio, and we'll be talking about
+those more throughout the class.
+The primary type of file that we'll be
+interacting with,
+for the most part in this class, is an R
+script.
+So, an R script is a file with the
+extension
+.R, and so it's just a, actually a text
+file.
+Except the text file contains bits of R
+code, so here it's you can see a comment.
+So this isn't actually executed but R you
+could include
+that so that people can understand what's
+happening in the code.
+And then there're things like functions
+and so forth which
+we'll be talking about a lot more when
+we're coding.
+If this seems intimidating to look at this
+function right now
+you should worry about it when you get
+through R programming.
+You'll be a wizard and be able to do
+things much more complicated than this.
+The other thing that we'll be using is R
+markdown documents.
+So, reproducible research involves
+creating documents that can be reproduced.
+In other words, they can be rerun and
+produce the
+exact same numbers that you got when you
+did your analysis.
+And the primary vehicle for doing that is
+through markdown and R markdown.
+So this is a file with an extension ,RMD
+and
+this .RMD file has a very structured
+format of text file.
+And so we'll talk a lot more about what
+that format is later but you
+could take this structured file and you
+can knit it to html with this button here.
+And you actually create an html file that
+will actually be formatted very nicely.
+So for example, what you type in text
+looks like this, and
+it turns into a nice bulleted list in
+HTML, once you knit HTML.
+And we'll talk a lot more about how that
+file works later in the class.
+We're going to talk about how we are
+going to
+do distributed version control with Github
+and Git.
+So, part of this class will be setting
+up your Github account and creating a
+portfolio, of
+all the different things that you do
+throughout the
+course track, that then you can share with
+employers.
+Or you can share and contribute to other
+projects, so that
+you can get your name out there in the
+data science community.
+We're going to running most of the
+commands
+from the shell or from the command line
+interface.
+So this is a command line interface, it
+doesn't look like much right here.
+You can see that there's a prompt up her
+in the top left.
+And we're going to be entering commands as
+text prompts.
+And those commands will then execute,
+allowing
+the programs that we're going to be
+talking about.
+So, there's a brief tour of all the tools
+that we're going to be using in this
+class.
+

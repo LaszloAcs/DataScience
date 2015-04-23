@@ -1,0 +1,56 @@
+This is an overview of practical machine
+learning.
+There are a large number of machine
+learning
+classes out there, and they are often very
+good.
+So, the focus of this class will be
+primarily on hand-drawn application of
+machine learning in R.
+So, the idea being that we'll try to focus
+on the R packages and the
+ideas that will allow you to actually take
+data and perform machine learning on those
+data.
+We'll also talk a little bit conceptually
+about each of these prediction
+methods work and maybe some of the cases
+where there might be trouble.
+And then we'll point you to resources
+where you can learn more in depth about
+the mathematical details or the really
+hardcore
+computational underpaying of these
+methodologies if you're interested.
+So the Practical Machine Learning Content.
+We'll start with prediction study design,
+we'll talk about cross validation.
+The caret package for prediction in R,
+some pre-processing.
+Predicting what the variety of different
+ideas like regression and trees.
+We'll talk about common ideas like
+boosting, bagging,
+model blending, and a little bit about
+forecasting.
+So here are some examples of things we'll
+cover.
+We'll cover basic terms, like what are
+true positives and false positives?
+What are true negatives and false
+negatives,
+sensitivity and specificity, those sorts
+of things.
+We'll also cover how to deal with
+correlated
+predictors by preprocessing out data that
+had correlated predictors.
+When we're moving them from the training
+data
+set, and we'll talk a little bit about
+boosting.
+So, this is a very more technical machine
+learning idea, but can be applied
+quite simply using the functions of a R to
+really improve your prediction accuracy.
+
